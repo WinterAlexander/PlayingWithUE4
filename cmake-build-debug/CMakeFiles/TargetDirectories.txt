@@ -1,0 +1,11 @@
+C:/Users/Alexander Winter/Desktop/PlayingWithUE4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alexander Winter/Desktop/PlayingWithUE4/cmake-build-debug/CMakeFiles/PlayingWithUE4Editor-Development-CLEAN.dir
+C:/Users/Alexander Winter/Desktop/PlayingWithUE4/cmake-build-debug/CMakeFiles/UE4Editor-Development.dir
+C:/Users/Alexander Winter/Desktop/PlayingWithUE4/cmake-build-debug/CMakeFiles/PlayingWithUE4Editor-Development.dir
+C:/Users/Alexander Winter/Desktop/PlayingWithUE4/cmake-build-debug/CMakeFiles/UE4Editor-Development-CLEAN.dir
+C:/Users/Alexander Winter/Desktop/PlayingWithUE4/cmake-build-debug/CMakeFiles/PleaseIgnoreMe.dir
+C:/Users/Alexander Winter/Desktop/PlayingWithUE4/cmake-build-debug/CMakeFiles/UE4Game-Development.dir
+C:/Users/Alexander Winter/Desktop/PlayingWithUE4/cmake-build-debug/CMakeFiles/UE4Game-Development-CLEAN.dir
+C:/Users/Alexander Winter/Desktop/PlayingWithUE4/cmake-build-debug/CMakeFiles/PlayingWithUE4-Development.dir
+C:/Users/Alexander Winter/Desktop/PlayingWithUE4/cmake-build-debug/CMakeFiles/PlayingWithUE4-Development-CLEAN.dir
+C:/Users/Alexander Winter/Desktop/PlayingWithUE4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -24,10 +24,10 @@ APlayingWithUE4Pawn::APlayingWithUE4Pawn()
 	// Create a spring arm component
 	SpringArm = CreateDefaultSubobject<USpringArmComponent>(TEXT("SpringArm0"));
 	SpringArm->SetupAttachment(RootComponent);
-	SpringArm->TargetArmLength = 160.0f; // The camera follows at this distance behind the character	
+	SpringArm->TargetArmLength = 300.0f; // The camera follows at this distance behind the character	
 	SpringArm->SocketOffset = FVector(0.f,0.f,60.f);
-	SpringArm->bEnableCameraLag = false;
-	SpringArm->CameraLagSpeed = 15.f;
+	SpringArm->bEnableCameraLag = true;
+	SpringArm->CameraLagSpeed = 0.1f;
 
 	// Create camera component 
 	Camera = CreateDefaultSubobject<UCameraComponent>(TEXT("Camera0"));
